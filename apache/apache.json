@@ -3,56 +3,56 @@
     "version": "2.4.66",
     "releaseDate": "2026-01-31",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/VS18/binaries/httpd-2.4.66-260131-Win64-VS18.zip"
+      "win64": "https://www.apachelounge.com/download/VS18/binaries/httpd-2.4.66-260131-Win64-VS18.zip"
     }
   },
   {
     "version": "2.4.66",
     "releaseDate": "2025-12-06",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.66-251206-win64-VS17.zip"
+      "win64": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.66-251206-win64-VS17.zip"
     }
   },
   {
     "version": "2.4.62",
     "releaseDate": "2024-09-04",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.62-240904-Win64-VS17.zip"
+      "win64": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.62-240904-Win64-VS17.zip"
     }
   },
   {
     "version": "2.4.59",
     "releaseDate": "2024-06-05",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.59-240605-Win64-VS17.zip"
+      "win64": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.59-240605-Win64-VS17.zip"
     }
   },
   {
     "version": "2.4.57",
     "releaseDate": "2023-04-17",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/VS16/binaries/httpd-2.4.57-win64-VS16.zip"
+      "win64": "https://www.apachelounge.com/download/VS16/binaries/httpd-2.4.57-win64-VS16.zip"
     }
   },
   {
     "version": "2.4.54",
     "releaseDate": "2022-06-24",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/vc15/binaries/httpd-2.4.54-win64-VC15.zip"
+      "win64": "https://www.apachelounge.com/download/vc15/binaries/httpd-2.4.54-win64-VC15.zip"
     }
   },
   {
     "version": "2.4.41",
     "releaseDate": "2019-08-14",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/vc14/binaries/httpd-2.4.41-win64-VC14.zip"
+      "win64": "https://www.apachelounge.com/download/vc14/binaries/httpd-2.4.41-win64-VC14.zip"
     }
   },
   {
     "version": "2.4.38",
     "releaseDate": "2019-01-21",
     "download": {
-      "Win64": "https://www.apachelounge.com/download/vc11/binaries/httpd-2.4.38-win64-VC11.zip"
+      "win64": "https://www.apachelounge.com/download/vc11/binaries/httpd-2.4.38-win64-VC11.zip"
     }
   }
 ]

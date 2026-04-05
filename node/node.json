@@ -3,504 +3,504 @@
     "version": "25.9.0",
     "releaseDate": "2026-03-31",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.9.0/node-v25.9.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.9.0/node-v25.9.0-win-x64.zip"
     }
   },
   {
     "version": "25.8.2",
     "releaseDate": "2026-03-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.8.2/node-v25.8.2-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.8.2/node-v25.8.2-win-x64.zip"
     }
   },
   {
     "version": "25.8.1",
     "releaseDate": "2026-03-10",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.8.1/node-v25.8.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.8.1/node-v25.8.1-win-x64.zip"
     }
   },
   {
     "version": "25.8.0",
     "releaseDate": "2026-03-03",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.8.0/node-v25.8.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.8.0/node-v25.8.0-win-x64.zip"
     }
   },
   {
     "version": "25.7.0",
     "releaseDate": "2026-02-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-win-x64.zip"
     }
   },
   {
     "version": "25.6.1",
     "releaseDate": "2026-02-09",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-win-x64.zip"
     }
   },
   {
     "version": "25.6.0",
     "releaseDate": "2026-02-02",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.6.0/node-v25.6.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.6.0/node-v25.6.0-win-x64.zip"
     }
   },
   {
     "version": "25.5.0",
     "releaseDate": "2026-01-26",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.5.0/node-v25.5.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.5.0/node-v25.5.0-win-x64.zip"
     }
   },
   {
     "version": "25.4.0",
     "releaseDate": "2026-01-19",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.4.0/node-v25.4.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.4.0/node-v25.4.0-win-x64.zip"
     }
   },
   {
     "version": "25.3.0",
     "releaseDate": "2026-01-12",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.3.0/node-v25.3.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.3.0/node-v25.3.0-win-x64.zip"
     }
   },
   {
     "version": "25.2.1",
     "releaseDate": "2025-11-16",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.2.1/node-v25.2.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.2.1/node-v25.2.1-win-x64.zip"
     }
   },
   {
     "version": "25.2.0",
     "releaseDate": "2025-11-11",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.2.0/node-v25.2.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.2.0/node-v25.2.0-win-x64.zip"
     }
   },
   {
     "version": "25.1.0",
     "releaseDate": "2025-10-28",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.1.0/node-v25.1.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.1.0/node-v25.1.0-win-x64.zip"
     }
   },
   {
     "version": "25.0.0",
     "releaseDate": "2025-10-15",
     "download": {
-      "Win64": "https://nodejs.org/dist/v25.0.0/node-v25.0.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v25.0.0/node-v25.0.0-win-x64.zip"
     }
   },
   {
     "version": "24.14.1",
     "releaseDate": "2026-03-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.14.1/node-v24.14.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.14.1/node-v24.14.1-win-x64.zip"
     }
   },
   {
     "version": "24.14.0",
     "releaseDate": "2026-02-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.14.0/node-v24.14.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.14.0/node-v24.14.0-win-x64.zip"
     }
   },
   {
     "version": "24.13.1",
     "releaseDate": "2026-02-09",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.13.1/node-v24.13.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.13.1/node-v24.13.1-win-x64.zip"
     }
   },
   {
     "version": "24.13.0",
     "releaseDate": "2026-01-12",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.13.0/node-v24.13.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.13.0/node-v24.13.0-win-x64.zip"
     }
   },
   {
     "version": "24.12.0",
     "releaseDate": "2025-12-10",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.12.0/node-v24.12.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.12.0/node-v24.12.0-win-x64.zip"
     }
   },
   {
     "version": "24.11.1",
     "releaseDate": "2025-11-11",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.11.1/node-v24.11.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.11.1/node-v24.11.1-win-x64.zip"
     }
   },
   {
     "version": "24.11.0",
     "releaseDate": "2025-10-28",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.11.0/node-v24.11.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.11.0/node-v24.11.0-win-x64.zip"
     }
   },
   {
     "version": "24.10.0",
     "releaseDate": "2025-10-08",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.10.0/node-v24.10.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.10.0/node-v24.10.0-win-x64.zip"
     }
   },
   {
     "version": "24.9.0",
     "releaseDate": "2025-09-25",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.9.0/node-v24.9.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.9.0/node-v24.9.0-win-x64.zip"
     }
   },
   {
     "version": "24.8.0",
     "releaseDate": "2025-09-10",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.8.0/node-v24.8.0-win-x64.zip"
     }
   },
   {
     "version": "24.7.0",
     "releaseDate": "2025-08-27",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.7.0/node-v24.7.0-win-x64.zip"
     }
   },
   {
     "version": "24.6.0",
     "releaseDate": "2025-08-14",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.6.0/node-v24.6.0-win-x64.zip"
     }
   },
   {
     "version": "24.5.0",
     "releaseDate": "2025-07-31",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.5.0/node-v24.5.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.5.0/node-v24.5.0-win-x64.zip"
     }
   },
   {
     "version": "24.4.1",
     "releaseDate": "2025-07-15",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.4.1/node-v24.4.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.4.1/node-v24.4.1-win-x64.zip"
     }
   },
   {
     "version": "24.4.0",
     "releaseDate": "2025-07-09",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.4.0/node-v24.4.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.4.0/node-v24.4.0-win-x64.zip"
     }
   },
   {
     "version": "24.3.0",
     "releaseDate": "2025-06-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.3.0/node-v24.3.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.3.0/node-v24.3.0-win-x64.zip"
     }
   },
   {
     "version": "24.2.0",
     "releaseDate": "2025-06-09",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.2.0/node-v24.2.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.2.0/node-v24.2.0-win-x64.zip"
     }
   },
   {
     "version": "24.1.0",
     "releaseDate": "2025-05-20",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.1.0/node-v24.1.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.1.0/node-v24.1.0-win-x64.zip"
     }
   },
   {
     "version": "24.0.2",
     "releaseDate": "2025-05-14",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.0.2/node-v24.0.2-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.0.2/node-v24.0.2-win-x64.zip"
     }
   },
   {
     "version": "24.0.1",
     "releaseDate": "2025-05-08",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.0.1/node-v24.0.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.0.1/node-v24.0.1-win-x64.zip"
     }
   },
   {
     "version": "24.0.0",
     "releaseDate": "2025-05-06",
     "download": {
-      "Win64": "https://nodejs.org/dist/v24.0.0/node-v24.0.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v24.0.0/node-v24.0.0-win-x64.zip"
     }
   },
   {
     "version": "23.11.1",
     "releaseDate": "2025-05-14",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.11.1/node-v23.11.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.11.1/node-v23.11.1-win-x64.zip"
     }
   },
   {
     "version": "23.11.0",
     "releaseDate": "2025-04-01",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-win-x64.zip"
     }
   },
   {
     "version": "23.10.0",
     "releaseDate": "2025-03-13",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.10.0/node-v23.10.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.10.0/node-v23.10.0-win-x64.zip"
     }
   },
   {
     "version": "23.9.0",
     "releaseDate": "2025-02-26",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.9.0/node-v23.9.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.9.0/node-v23.9.0-win-x64.zip"
     }
   },
   {
     "version": "23.8.0",
     "releaseDate": "2025-02-13",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.8.0/node-v23.8.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.8.0/node-v23.8.0-win-x64.zip"
     }
   },
   {
     "version": "23.7.0",
     "releaseDate": "2025-01-30",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.7.0/node-v23.7.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.7.0/node-v23.7.0-win-x64.zip"
     }
   },
   {
     "version": "23.6.1",
     "releaseDate": "2025-01-21",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.6.1/node-v23.6.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.6.1/node-v23.6.1-win-x64.zip"
     }
   },
   {
     "version": "23.6.0",
     "releaseDate": "2025-01-07",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-win-x64.zip"
     }
   },
   {
     "version": "23.5.0",
     "releaseDate": "2024-12-19",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.5.0/node-v23.5.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.5.0/node-v23.5.0-win-x64.zip"
     }
   },
   {
     "version": "23.4.0",
     "releaseDate": "2024-12-10",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.4.0/node-v23.4.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.4.0/node-v23.4.0-win-x64.zip"
     }
   },
   {
     "version": "23.3.0",
     "releaseDate": "2024-11-20",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.3.0/node-v23.3.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.3.0/node-v23.3.0-win-x64.zip"
     }
   },
   {
     "version": "23.2.0",
     "releaseDate": "2024-11-11",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-win-x64.zip"
     }
   },
   {
     "version": "23.1.0",
     "releaseDate": "2024-10-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.1.0/node-v23.1.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.1.0/node-v23.1.0-win-x64.zip"
     }
   },
   {
     "version": "23.0.0",
     "releaseDate": "2024-10-16",
     "download": {
-      "Win64": "https://nodejs.org/dist/v23.0.0/node-v23.0.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v23.0.0/node-v23.0.0-win-x64.zip"
     }
   },
   {
     "version": "22.22.2",
     "releaseDate": "2026-03-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.22.2/node-v22.22.2-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.22.2/node-v22.22.2-win-x64.zip"
     }
   },
   {
     "version": "22.22.1",
     "releaseDate": "2026-03-04",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.22.1/node-v22.22.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.22.1/node-v22.22.1-win-x64.zip"
     }
   },
   {
     "version": "22.22.0",
     "releaseDate": "2026-01-12",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.22.0/node-v22.22.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.22.0/node-v22.22.0-win-x64.zip"
     }
   },
   {
     "version": "22.21.1",
     "releaseDate": "2025-10-28",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.21.1/node-v22.21.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.21.1/node-v22.21.1-win-x64.zip"
     }
   },
   {
     "version": "22.21.0",
     "releaseDate": "2025-10-20",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.21.0/node-v22.21.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.21.0/node-v22.21.0-win-x64.zip"
     }
   },
   {
     "version": "22.20.0",
     "releaseDate": "2025-09-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.20.0/node-v22.20.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.20.0/node-v22.20.0-win-x64.zip"
     }
   },
   {
     "version": "22.19.0",
     "releaseDate": "2025-08-28",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.19.0/node-v22.19.0-win-x64.zip"
     }
   },
   {
     "version": "22.18.0",
     "releaseDate": "2025-07-31",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.18.0/node-v22.18.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.18.0/node-v22.18.0-win-x64.zip"
     }
   },
   {
     "version": "22.17.1",
     "releaseDate": "2025-07-15",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.17.1/node-v22.17.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.17.1/node-v22.17.1-win-x64.zip"
     }
   },
   {
     "version": "22.17.0",
     "releaseDate": "2025-06-24",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-win-x64.zip"
     }
   },
   {
     "version": "22.16.0",
     "releaseDate": "2025-05-20",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.16.0/node-v22.16.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.16.0/node-v22.16.0-win-x64.zip"
     }
   },
   {
     "version": "22.15.1",
     "releaseDate": "2025-05-14",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.15.1/node-v22.15.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.15.1/node-v22.15.1-win-x64.zip"
     }
   },
   {
     "version": "22.15.0",
     "releaseDate": "2025-04-22",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.15.0/node-v22.15.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.15.0/node-v22.15.0-win-x64.zip"
     }
   },
   {
     "version": "22.14.0",
     "releaseDate": "2025-02-11",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-win-x64.zip"
     }
   },
   {
     "version": "22.13.1",
     "releaseDate": "2025-01-21",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.13.1/node-v22.13.1-win-x64.zip"
     }
   },
   {
     "version": "22.13.0",
     "releaseDate": "2025-01-06",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.13.0/node-v22.13.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.13.0/node-v22.13.0-win-x64.zip"
     }
   },
   {
     "version": "22.12.0",
     "releaseDate": "2024-12-02",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.12.0/node-v22.12.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.12.0/node-v22.12.0-win-x64.zip"
     }
   },
   {
     "version": "22.11.0",
     "releaseDate": "2024-10-29",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.11.0/node-v22.11.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.11.0/node-v22.11.0-win-x64.zip"
     }
   },
   {
     "version": "22.10.0",
     "releaseDate": "2024-10-16",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.10.0/node-v22.10.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.10.0/node-v22.10.0-win-x64.zip"
     }
   },
   {
     "version": "22.9.0",
     "releaseDate": "2024-09-17",
     "download": {
-      "Win64": "https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip"
     }
   },
   {
     "version": "20.0.0",
     "releaseDate": "2023-04-17",
     "download": {
-      "Win64": "https://nodejs.org/dist/v20.0.0/node-v20.0.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v20.0.0/node-v20.0.0-win-x64.zip"
     }
   },
   {
     "version": "18.0.0",
     "releaseDate": "2022-04-18",
     "download": {
-      "Win64": "https://nodejs.org/dist/v18.0.0/node-v18.0.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v18.0.0/node-v18.0.0-win-x64.zip"
     }
   },
   {
     "version": "16.0.0",
     "releaseDate": "2021-04-20",
     "download": {
-      "Win64": "https://nodejs.org/dist/v16.0.0/node-v16.0.0-win-x64.zip"
+      "win64": "https://nodejs.org/dist/v16.0.0/node-v16.0.0-win-x64.zip"
     }
   }
 ]

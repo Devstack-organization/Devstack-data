@@ -3,8 +3,8 @@
     "version": "minio.RELEASE.2025-09-07T16-13-09Z",
     "releaseDate": "2025-09-07",
     "port": {
-      "web": "9090",
-      "api": "9000",
+      "web": 9090,
+      "api": 9000,
     },
     "download": {
       "win64": "https://dl.min.io/server/minio/release/windows-amd64/minio.RELEASE.2025-09-07T16-13-09Z"
@@ -14,8 +14,8 @@
     "version": "minio.RELEASE.2025-04-22T22-12-26Z",
     "releaseDate": "2025-04-22",
     "port": {
-      "web": "9090",
-      "api": "9000",
+      "web": 9090,
+      "api": 9000,
     },
     "download": {
       "win64": "https://dl.min.io/server/minio/release/windows-amd64/archive/minio.RELEASE.2025-04-22T22-12-26Z"

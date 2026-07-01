@@ -1,0 +1,29 @@
+[
+  {
+    "name": "MySQL Community Server 9.7.1 LTS",
+    "version": "9.7.1 LTS",
+    "releaseDate": "April 21, 2026",
+    "port": 3306
+    "download": {
+      "win64": "https://dev.mysql.com/get/Downloads/MySQL-9.7/mysql-9.7.1-winx64.zip"
+    }
+  },
+  {
+    "name": "MySQL Community Server 8.4.10 LTS",
+    "version": "8.4.10 LTS",
+    "releaseDate": "June 16, 2026",
+    "port": 3306
+    "download": {
+      "win64": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.10-winx64.zip"
+    }
+  },
+  {
+    "name": "MySQL Community Server 8.0.46",
+    "version": "8.0.46",
+    "releaseDate": "April 21, 2026",
+    "port": 3306
+    "download": {
+      "win64": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.46-winx64.zip"
+    }
+  },
+]
